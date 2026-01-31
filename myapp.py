@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Header
-st.title("🎓 Thembini Mathonsi")
+st.title("🎓 Mthembeni Mathonsi")
 st.subheader("BSc Honours in Applied Mathematics | Researcher")
 
 st.markdown(
@@ -24,7 +24,7 @@ st.markdown(
 st.header("👤 About Me")
 st.write(
     """
-    I am **Thembini Mathonsi**, a BSc Honours student in **Applied Mathematics**
+    I am **Mthembeni Mathonsi**, a BSc Honours student in **Applied Mathematics**
     with a strong interest in mathematical modelling, numerical methods,
     and image processing. My academic goal is to apply mathematics and
     computational techniques to solve real-world problems, particularly
@@ -80,4 +80,4 @@ st.write(
 
 # Footer
 st.markdown("---")
-st.markdown("© 2026 | Thembini Mathonsi | Research Profile")
+st.markdown("© 2026 | Mthembini Mathonsi | Research Profile")
